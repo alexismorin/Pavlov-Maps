@@ -1,353 +1,247 @@
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Concrete.uasset" 0
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Glow.uasset" 1
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/lambert1.uasset" 2
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/lambert4.uasset" 3
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Landscape/A_DarkCliff.uasset" 4
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Landscape/A_Rocks.uasset" 5
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Landscape/Mask_Dirt.uasset" 6
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/ModularKit/lambert1.uasset" 7
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_FenceWall.uasset" 8
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_Stairs.uasset" 9
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/lambert1.uasset" 10
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/lambert11.uasset" 11
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/lambert20.uasset" 12
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/LF_Spot.uasset" 13
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/M_Barrels.uasset" 14
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/PainterProbs_lambert11_Height.uasset" 15
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Brick4.uasset" 16
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Pipe.uasset" 17
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Pot.uasset" 18
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Radiator.uasset" 19
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/SM_WallTie.uasset" 20
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/Containers/containerspainter_M_Barrels_Height.uasset" 21
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/IES/bollard.uasset" 22
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/IES/soft-display.uasset" 23
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_Brick.uasset" 24
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/N_Brick.uasset" 25
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/M_Triplanar.uasset" 26
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Brick.uasset" 27
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/PainterProbs_lambert11_AO.uasset" 28
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/PainterProbs_lambert11_BaseColor.uasset" 29
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/PainterProbs_lambert11_Metallic.uasset" 30
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/PainterProbs_lambert11_Normal.uasset" 31
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/PainterProbs_lambert11_Roughness.uasset" 32
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/M_Opaque.uasset" 33
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/Containers/containerspainter_M_Barrels_AO.uasset" 34
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/Containers/containerspainter_M_Barrels_BaseColor.uasset" 35
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/Containers/containerspainter_M_Barrels_Metallic.uasset" 36
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/Containers/containerspainter_M_Barrels_Normal.uasset" 37
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/Containers/containerspainter_M_Barrels_Roughness.uasset" 38
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Containers.uasset" 39
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_Fence.uasset" 40
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/M_TriplanarCutout.uasset" 41
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Fence.uasset" 42
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_Gravel.uasset" 43
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/N_Gravel.uasset" 44
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Gravel.uasset" 45
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 46
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 47
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 48
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 49
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 50
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 51
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 52
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 53
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/SphereRenderNormalsMap.uasset" 54
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldAlignedNormals_HighQuality.uasset" 55
-"../../../Engine/Content/EngineMaterials/DefaultNormal_Uncompressed.uasset" 56
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedNormal.uasset" 57
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 58
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 59
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_RockFloor.uasset" 60
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/N_FloorTile.uasset" 61
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/M_BlendableFloor.uasset" 62
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Ground.uasset" 63
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/LF_Cookie.uasset" 64
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/M_Emissive.uasset" 65
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_LampLight.uasset" 66
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_DirtyConcrete.uasset" 67
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_PaleBrick.uasset" 68
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_Planks.uasset" 69
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/N_Planks.uasset" 70
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Planks.uasset" 71
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_Plaster.uasset" 72
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Plaster.uasset" 73
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Props.uasset" 74
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_Wood.uasset" 75
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/N_Wood.uasset" 76
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Wood.uasset" 77
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_YellowBrick.uasset" 78
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/N_YellowBrick.uasset" 79
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_YellowBrick.uasset" 80
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 81
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 82
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 83
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 84
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 85
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 86
-"../../../Engine/Content/BasicShapes/Cone.uasset" 87
-"../../../Engine/Content/BasicShapes/Cube.uasset" 88
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 89
-"../../../Engine/Content/BasicShapes/Plane.uasset" 90
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 91
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 92
-"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 93
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 94
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 95
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 96
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 97
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 98
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 99
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 100
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 101
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 102
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 103
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 104
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 105
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 106
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 107
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 108
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 109
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 110
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 111
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 112
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 113
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 114
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 115
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 116
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 117
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 118
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 119
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 120
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 121
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 122
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 123
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 124
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 125
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 126
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 127
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 128
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 129
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 130
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 131
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 132
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 133
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 134
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 135
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 136
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 137
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 138
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 139
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 140
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 141
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 142
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 143
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 144
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 145
-"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 146
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 147
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 148
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 149
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 150
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 151
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 152
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 153
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 154
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 155
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 156
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 157
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 158
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 159
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 160
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 161
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 162
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 163
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 164
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 165
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 166
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 167
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 168
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 169
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 170
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 171
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 172
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 173
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 174
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 175
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 176
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 177
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 178
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 179
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 180
-"../../../Engine/Content/EngineResources/Black.uasset" 181
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 182
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 183
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 184
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 185
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 186
-"../../../Engine/Content/EngineSounds/Master.uasset" 187
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 188
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 189
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 190
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 191
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 192
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 193
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 194
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 195
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 196
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 197
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 198
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 199
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 200
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 201
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 202
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 203
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 204
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 205
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 206
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 207
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 208
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 209
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 210
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 211
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 212
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 213
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 214
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 215
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 216
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 217
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 218
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 219
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 220
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 221
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 222
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 223
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 224
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 225
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 226
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 227
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 228
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 229
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 230
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 231
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 232
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 233
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 234
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 235
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 236
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 237
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 238
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 239
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/Materials/M_EditorMesh.uasset" 240
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/Meshes/SM_FlagCap.uasset" 241
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/Blueprints/BP_CTFProxy.uasset" 242
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 243
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/Blueprints/BP_LootSpawnerProxy.uasset" 244
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/Meshes/SM_Bomb_Plant_01.uasset" 245
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/PhysicalMaterials/PM_Default_Carpet.uasset" 246
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/PhysicalMaterials/PM_Default_Concrete.uasset" 247
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/PhysicalMaterials/PM_Default_Dirt.uasset" 248
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/PhysicalMaterials/PM_Default_Fabric.uasset" 249
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/PhysicalMaterials/PM_Default_Flesh.uasset" 250
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/PhysicalMaterials/PM_Default_Glass.uasset" 251
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/PhysicalMaterials/PM_Default_Metal.uasset" 252
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/PhysicalMaterials/PM_Default_Water.uasset" 253
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/PhysicalMaterials/PM_Default_Wood.uasset" 254
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/PhysicalMaterials/PM_ForceNone.uasset" 255
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/PhysicalMaterials/Thin/PM_Default_Carpet_Thin.uasset" 256
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/PhysicalMaterials/Thin/PM_Default_Concrete_Thin.uasset" 257
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/PhysicalMaterials/Thin/PM_Default_Dirt_Thin.uasset" 258
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/PhysicalMaterials/Thin/PM_Default_Fabric_Thin.uasset" 259
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/PhysicalMaterials/Thin/PM_Default_Flesh_Thin.uasset" 260
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/PhysicalMaterials/Thin/PM_Default_Glass_Thin.uasset" 261
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/PhysicalMaterials/Thin/PM_Default_Metal_Thin.uasset" 262
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/PhysicalMaterials/Thin/PM_Default_Water_Thin.uasset" 263
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/PhysicalMaterials/Thin/PM_Default_Wood_Thin.uasset" 264
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 265
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 266
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 267
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 268
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 269
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 270
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 271
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 272
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 273
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_FencePost.uasset" 274
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Lamp.uasset" 275
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/IES/x-arrow.uasset" 276
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Maps/BP_LampLight.uasset" 277
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/EndOfDays_sharedassets/Cliff_LayerInfo.uasset" 278
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/EndOfDays_sharedassets/Dirt_LayerInfo.uasset" 279
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/EndOfDays_sharedassets/Sand_LayerInfo.uasset" 280
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Maps/EndOfDays_BuiltData.uasset" 281
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Landscape/A_Cliff.uasset" 282
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Landscape/A_Dirt.uasset" 283
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Landscape/A_Sand.uasset" 284
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Landscape/N_Cliff.uasset" 285
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Landscape/N_Dirt.uasset" 286
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Landscape/N_Sand.uasset" 287
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Landscape/M_Landscape.uasset" 288
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Landscape/MI_Landscape.uasset" 289
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 290
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Maps/Thumb.uasset" 291
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/definition.uasset" 292
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_DoorFrame.uasset" 293
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_Floor.uasset" 294
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_Ledge.uasset" 295
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_Pillar.uasset" 296
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_PillarCap.uasset" 297
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_Wall.uasset" 298
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_WindowPane.uasset" 299
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_WindowSill.uasset" 300
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Barrel1.uasset" 301
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Barrel2.uasset" 302
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Brick1.uasset" 303
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Brick2.uasset" 304
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Brick3.uasset" 305
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Crate.uasset" 306
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/SM_LargeCrate.uasset" 307
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Plank.uasset" 308
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Tire.uasset" 309
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/E_MOon.uasset" 310
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/M_Moon.uasset" 311
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_VolcanicRock.uasset" 312
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/N_Steel.uasset" 313
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Aluminum.uasset" 314
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_Concrete.uasset" 315
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/N_Concrete.uasset" 316
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Concrete.uasset" 317
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_Steel.uasset" 318
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Steel.uasset" 319
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/SM_DestroyedRadioLine.uasset" 320
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_Grass.uasset" 321
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/M_Foliage.uasset" 322
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_Grass2.uasset" 323
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Grass2.uasset" 324
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/SM_Grass2.uasset" 325
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Grass.uasset" 326
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/SM_GrassTIle.uasset" 327
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/E_Gradient.uasset" 328
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/M_Volumetrics.uasset" 329
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_CastLight.uasset" 330
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/SM_LightShaft.uasset" 331
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/SM_RadioLine.uasset" 332
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_CliffRock.uasset" 333
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/SM_Rocks_SM_LargeRock.uasset" 334
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/SM_Rocks_SM_MedRock.uasset" 335
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Environment/SM_Rocks_SM_SmallRock.uasset" 336
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Content/CustomMaps/UGC1770152981/Maps/EndOfDays.umap" 337
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 338
-"../../../Engine/Content/Maps/Entry.umap" 339
-"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 340
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 341
-"../../../Engine/Content/Maps/Templates/Template_Default.umap" 342
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 343
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/Blueprints/BPFL_PavlovTemplate.uasset" 344
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/Blueprints/BPI_MatchRounds.uasset" 345
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/Blueprints/Pavlov_GameLogic_Example.uasset" 346
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/Materials/M_Gray.uasset" 347
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/Meshes/SM_DoorExample.uasset" 348
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/Meshes/SM_DoorExample_DM.uasset" 349
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/Blueprints/BP_Destructible.uasset" 350
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/Blueprints/BP_Door.uasset" 351
-"../../../../../../Users/Alexis/Downloads/EndofDays/UE/UE/PavlovTemplate/Plugins/CustomMapTools/Content/ModExampleMap.umap" 352
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 0
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 1
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 2
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 3
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 4
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 5
+"../../../Engine/Content/BasicShapes/Cone.uasset" 6
+"../../../Engine/Content/BasicShapes/Cube.uasset" 7
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 8
+"../../../Engine/Content/BasicShapes/Plane.uasset" 9
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 10
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 11
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 12
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 13
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 14
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 15
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 16
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 17
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 18
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 19
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 20
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 21
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 22
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 23
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 24
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 25
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 26
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 27
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 28
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 29
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 30
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 31
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 32
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 33
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 34
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 35
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 36
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 37
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 38
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 39
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 40
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 41
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 42
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 43
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 44
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 45
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 46
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 47
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 48
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 49
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 50
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 51
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 52
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 53
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 54
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 55
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 56
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 57
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 58
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 59
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 60
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 61
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 62
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 63
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 64
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 65
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 66
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 67
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 68
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 69
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 70
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 71
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 72
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 73
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 74
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 75
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 76
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 77
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 78
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 79
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 80
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 81
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 82
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 83
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 84
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 85
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 86
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 87
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 88
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 89
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 90
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 91
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 92
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 93
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 94
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 95
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 96
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 97
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 98
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 99
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 100
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 101
+"../../../Engine/Content/EngineResources/Black.uasset" 102
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 103
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 104
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 105
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 106
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 107
+"../../../Engine/Content/EngineSounds/Master.uasset" 108
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 109
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 110
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 111
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 112
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 113
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 114
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 115
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 116
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 117
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 118
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 119
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 120
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 121
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 122
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 123
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 124
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 125
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 126
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 127
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 128
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 129
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 130
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 131
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 132
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 133
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 134
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 135
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 136
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 137
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 138
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 139
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 140
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 141
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 142
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 143
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 144
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 145
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 146
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 147
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 148
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 149
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 150
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 151
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 152
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 153
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 154
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 155
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 156
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 157
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 158
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 159
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 160
+"../../../../../../Github/Pavlov-Maps/End of Days/Plugins/CustomMapTools/Content/Materials/M_EditorMesh.uasset" 161
+"../../../../../../Github/Pavlov-Maps/End of Days/Plugins/CustomMapTools/Content/Meshes/SM_Bomb_Plant_01.uasset" 162
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 163
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 164
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 165
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 166
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 167
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 168
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 169
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 170
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 171
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 172
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_FencePost.uasset" 173
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Lamp.uasset" 174
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/IES/x-arrow.uasset" 175
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Maps/BP_LampLight.uasset" 176
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/EndOfDays_sharedassets/Cliff_LayerInfo.uasset" 177
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/EndOfDays_sharedassets/Dirt_LayerInfo.uasset" 178
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/EndOfDays_sharedassets/Sand_LayerInfo.uasset" 179
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Maps/EndOfDays_BuiltData.uasset" 180
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 181
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 182
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Landscape/A_Cliff.uasset" 183
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Landscape/A_Dirt.uasset" 184
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Landscape/A_Sand.uasset" 185
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Landscape/N_Cliff.uasset" 186
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Landscape/N_Dirt.uasset" 187
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Landscape/N_Sand.uasset" 188
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Landscape/M_Landscape.uasset" 189
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Landscape/MI_Landscape.uasset" 190
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 191
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Maps/Thumb.uasset" 192
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/definition.uasset" 193
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_DoorFrame.uasset" 194
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_Floor.uasset" 195
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_Ledge.uasset" 196
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_Pillar.uasset" 197
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_PillarCap.uasset" 198
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_Wall.uasset" 199
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_WindowPane.uasset" 200
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_WindowSill.uasset" 201
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Barrel1.uasset" 202
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Barrel2.uasset" 203
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Brick1.uasset" 204
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Brick2.uasset" 205
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Brick3.uasset" 206
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Crate.uasset" 207
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_LargeCrate.uasset" 208
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Plank.uasset" 209
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Tire.uasset" 210
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/E_MOon.uasset" 211
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/M_Moon.uasset" 212
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_Brick.uasset" 213
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/N_Brick.uasset" 214
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/M_Triplanar.uasset" 215
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_VolcanicRock.uasset" 216
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/N_Steel.uasset" 217
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Aluminum.uasset" 218
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_Concrete.uasset" 219
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/N_Concrete.uasset" 220
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Concrete.uasset" 221
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_Steel.uasset" 222
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Steel.uasset" 223
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/SM_DestroyedRadioLine.uasset" 224
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_Grass.uasset" 225
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/M_Foliage.uasset" 226
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_Grass2.uasset" 227
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Grass2.uasset" 228
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/SM_Grass2.uasset" 229
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Grass.uasset" 230
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/SM_GrassTIle.uasset" 231
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/E_Gradient.uasset" 232
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/M_Volumetrics.uasset" 233
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_CastLight.uasset" 234
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/SM_LightShaft.uasset" 235
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/SM_RadioLine.uasset" 236
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_CliffRock.uasset" 237
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/SM_Rocks_SM_LargeRock.uasset" 238
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/SM_Rocks_SM_MedRock.uasset" 239
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/SM_Rocks_SM_SmallRock.uasset" 240
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Maps/EndOfDays.umap" 241
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 242
+"../../../Engine/Content/Maps/Entry.umap" 243
+"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 244
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 245
+"../../../Engine/Content/Maps/Templates/Template_Default.umap" 246
