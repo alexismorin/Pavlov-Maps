@@ -168,77 +168,80 @@
 "../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 167
 "../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 168
 "../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 169
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_FencePost.uasset" 170
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Lamp.uasset" 171
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/IES/x-arrow.uasset" 172
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Maps/BP_LampLight.uasset" 173
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/EndOfDays_sharedassets/Cliff_LayerInfo.uasset" 174
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/EndOfDays_sharedassets/Dirt_LayerInfo.uasset" 175
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/EndOfDays_sharedassets/Sand_LayerInfo.uasset" 176
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Maps/EndOfDays_BuiltData.uasset" 177
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 178
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 179
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Landscape/A_Cliff.uasset" 180
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Landscape/A_Dirt.uasset" 181
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Landscape/A_Sand.uasset" 182
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Landscape/N_Cliff.uasset" 183
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Landscape/N_Dirt.uasset" 184
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Landscape/N_Sand.uasset" 185
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Landscape/M_Landscape.uasset" 186
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Landscape/MI_Landscape.uasset" 187
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 188
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Maps/Thumb.uasset" 189
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/definition.uasset" 190
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_DoorFrame.uasset" 191
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_Floor.uasset" 192
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_Ledge.uasset" 193
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_Pillar.uasset" 194
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_PillarCap.uasset" 195
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_Wall.uasset" 196
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_WindowPane.uasset" 197
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_WindowSill.uasset" 198
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Barrel1.uasset" 199
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Barrel2.uasset" 200
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Brick1.uasset" 201
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Brick2.uasset" 202
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Brick3.uasset" 203
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Crate.uasset" 204
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_LargeCrate.uasset" 205
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Plank.uasset" 206
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Tire.uasset" 207
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/E_MOon.uasset" 208
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/M_Moon.uasset" 209
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_Brick.uasset" 210
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/N_Brick.uasset" 211
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/M_Triplanar.uasset" 212
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_VolcanicRock.uasset" 213
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/N_Steel.uasset" 214
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Aluminum.uasset" 215
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_Concrete.uasset" 216
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/N_Concrete.uasset" 217
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Concrete.uasset" 218
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_Steel.uasset" 219
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Steel.uasset" 220
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/SM_DestroyedRadioLine.uasset" 221
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_Grass.uasset" 222
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/M_Foliage.uasset" 223
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_Grass2.uasset" 224
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Grass2.uasset" 225
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/SM_Grass2.uasset" 226
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Grass.uasset" 227
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/SM_GrassTIle.uasset" 228
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/E_Gradient.uasset" 229
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/M_Volumetrics.uasset" 230
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_CastLight.uasset" 231
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/SM_LightShaft.uasset" 232
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/SM_RadioLine.uasset" 233
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_CliffRock.uasset" 234
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/SM_Rocks_SM_LargeRock.uasset" 235
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/SM_Rocks_SM_MedRock.uasset" 236
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/SM_Rocks_SM_SmallRock.uasset" 237
-"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Maps/EndOfDays.umap" 238
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 239
-"../../../Engine/Content/Maps/Entry.umap" 240
-"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 241
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 242
-"../../../Engine/Content/Maps/Templates/Template_Default.umap" 243
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_Brick.uasset" 170
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/N_Brick.uasset" 171
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/M_Triplanar.uasset" 172
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_VolcanicRock.uasset" 173
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/N_Steel.uasset" 174
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Aluminum.uasset" 175
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/LF_Cookie.uasset" 176
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/M_Emissive.uasset" 177
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_LampLight.uasset" 178
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_Steel.uasset" 179
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Steel.uasset" 180
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_FencePost.uasset" 181
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Lamp.uasset" 182
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/IES/x-arrow.uasset" 183
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Maps/BP_LampLight.uasset" 184
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/EndOfDays_sharedassets/Cliff_LayerInfo.uasset" 185
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/EndOfDays_sharedassets/Dirt_LayerInfo.uasset" 186
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/EndOfDays_sharedassets/Sand_LayerInfo.uasset" 187
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Maps/EndOfDays_BuiltData.uasset" 188
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 189
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 190
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Landscape/A_Cliff.uasset" 191
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Landscape/A_Dirt.uasset" 192
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Landscape/A_Sand.uasset" 193
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Landscape/N_Cliff.uasset" 194
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Landscape/N_Dirt.uasset" 195
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Landscape/N_Sand.uasset" 196
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Landscape/M_Landscape.uasset" 197
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Landscape/MI_Landscape.uasset" 198
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 199
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Maps/Thumb.uasset" 200
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/definition.uasset" 201
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_DoorFrame.uasset" 202
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_Floor.uasset" 203
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_Ledge.uasset" 204
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_Pillar.uasset" 205
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_PillarCap.uasset" 206
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_Wall.uasset" 207
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_WindowPane.uasset" 208
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/ModularKit/SM_WindowSill.uasset" 209
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Barrel1.uasset" 210
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Barrel2.uasset" 211
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Brick1.uasset" 212
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Brick2.uasset" 213
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Brick3.uasset" 214
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Crate.uasset" 215
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_LargeCrate.uasset" 216
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Plank.uasset" 217
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/Props/SM_Tire.uasset" 218
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/E_MOon.uasset" 219
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/M_Moon.uasset" 220
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_Concrete.uasset" 221
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/N_Concrete.uasset" 222
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Concrete.uasset" 223
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/SM_DestroyedRadioLine.uasset" 224
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_Grass.uasset" 225
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/M_Foliage.uasset" 226
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/A_Grass2.uasset" 227
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Grass2.uasset" 228
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/SM_Grass2.uasset" 229
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_Grass.uasset" 230
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/SM_GrassTIle.uasset" 231
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/E_Gradient.uasset" 232
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/M_Volumetrics.uasset" 233
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_CastLight.uasset" 234
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/SM_LightShaft.uasset" 235
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/SM_RadioLine.uasset" 236
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/MaterialLibrary/MI_CliffRock.uasset" 237
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/SM_Rocks_SM_LargeRock.uasset" 238
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/SM_Rocks_SM_MedRock.uasset" 239
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Environment/SM_Rocks_SM_SmallRock.uasset" 240
+"../../../../../../Github/Pavlov-Maps/End of Days/Content/CustomMaps/UGC1770152981/Maps/EndOfDays.umap" 241
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 242
+"../../../Engine/Content/Maps/Entry.umap" 243
+"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 244
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 245
+"../../../Engine/Content/Maps/Templates/Template_Default.umap" 246
