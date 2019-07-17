@@ -3,7 +3,7 @@
 Repo to share my modded maps, feel free to use all the assets you see.
 
 # Gloriana
-![Gloriana](images/endofdays.png)
+![Gloriana](images/gloriana.png)
 # Campus
 ![Campus](images/campus.jpg)
 # Troubles
